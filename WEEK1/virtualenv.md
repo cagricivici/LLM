@@ -1,3 +1,6 @@
+# How to set up virtual env, activate it and set it as a new kernel!
+
+
 Takeaway_1: If you dont enable virtualenv, the libs installed will go under user/username/appdata/local... If you want the lib save in lib of virtualenv, you need to activate it first then pip install blablabla...
 
 >> virtualenv firstenv
